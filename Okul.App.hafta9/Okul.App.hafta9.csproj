@@ -79,5 +79,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OkulApp.BLL\OkulApp.BLL.csproj">
+      <Project>{0ac3138d-c989-44d0-a1c5-693aedfec217}</Project>
+      <Name>OkulApp.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OkulApp.Model\OkulApp.Model.csproj">
+      <Project>{3BCA4BB3-92EF-48DC-A1A7-0C548D296D38}</Project>
+      <Name>OkulApp.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

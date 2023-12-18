@@ -49,7 +49,7 @@
 			this.gboxÖğrenci.Controls.Add(this.txtAd);
 			this.gboxÖğrenci.Location = new System.Drawing.Point(83, 37);
 			this.gboxÖğrenci.Name = "gboxÖğrenci";
-			this.gboxÖğrenci.Size = new System.Drawing.Size(455, 263);
+			this.gboxÖğrenci.Size = new System.Drawing.Size(575, 305);
 			this.gboxÖğrenci.TabIndex = 0;
 			this.gboxÖğrenci.TabStop = false;
 			this.gboxÖğrenci.Text = "Öğrenci Bilgileri";
@@ -68,7 +68,7 @@
 			this.txtNumara.Location = new System.Drawing.Point(189, 123);
 			this.txtNumara.MaxLength = 15;
 			this.txtNumara.Name = "txtNumara";
-			this.txtNumara.Size = new System.Drawing.Size(100, 22);
+			this.txtNumara.Size = new System.Drawing.Size(116, 22);
 			this.txtNumara.TabIndex = 5;
 			// 
 			// txtSoyad
@@ -76,7 +76,7 @@
 			this.txtSoyad.Location = new System.Drawing.Point(189, 86);
 			this.txtSoyad.MaxLength = 30;
 			this.txtSoyad.Name = "txtSoyad";
-			this.txtSoyad.Size = new System.Drawing.Size(100, 22);
+			this.txtSoyad.Size = new System.Drawing.Size(116, 22);
 			this.txtSoyad.TabIndex = 6;
 			// 
 			// lblNumara
@@ -102,7 +102,7 @@
 			this.txtAd.Location = new System.Drawing.Point(189, 52);
 			this.txtAd.MaxLength = 20;
 			this.txtAd.Name = "txtAd";
-			this.txtAd.Size = new System.Drawing.Size(100, 22);
+			this.txtAd.Size = new System.Drawing.Size(116, 22);
 			this.txtAd.TabIndex = 4;
 			// 
 			// btnKaydet
