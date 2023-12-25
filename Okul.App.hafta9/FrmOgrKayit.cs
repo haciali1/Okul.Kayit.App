@@ -44,9 +44,9 @@ namespace Okul.App.hafta9
 						break;
 				}
 			}
-			catch (Exception)
+			catch (Exception ex)
 			{
-				MessageBox.Show("Bilinmeyen hata");
+				MessageBox.Show("Bilinmeyen hata "+ex.Message);
 			}
 		}
 	}
