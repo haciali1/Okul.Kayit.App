@@ -7,9 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okul.App.hafta9", "Okul.App
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OkulApp.Model", "OkulApp.Model\OkulApp.Model.csproj", "{3BCA4BB3-92EF-48DC-A1A7-0C548D296D38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulApp.BLL", "OkulApp.BLL\OkulApp.BLL.csproj", "{0AC3138D-C989-44D0-A1C5-693AEDFEC217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OkulApp.BLL", "OkulApp.BLL\OkulApp.BLL.csproj", "{0AC3138D-C989-44D0-A1C5-693AEDFEC217}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okul.App.DAL", "Okul.App.DAL\Okul.App.DAL.csproj", "{B3EBB170-D725-450B-BC97-BB44F1085152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Okul.App.DAL", "Okul.App.DAL\Okul.App.DAL.csproj", "{B3EBB170-D725-450B-BC97-BB44F1085152}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5ED8E24E-2E2C-4AFF-A72A-B03B698F7CED}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
