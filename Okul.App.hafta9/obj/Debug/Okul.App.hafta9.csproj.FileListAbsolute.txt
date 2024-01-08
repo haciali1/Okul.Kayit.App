@@ -42,3 +42,5 @@ C:\Users\HP\Desktop\Projeler\Güz dönemi\Nesne tabalı programlama C#\Okul.App.
 C:\Users\HP\Desktop\Projeler\Güz dönemi\Nesne tabalı programlama C#\Okul.App.hafta9\Okul.App.hafta9\bin\Debug\System.Data.SqlClient.xml
 C:\Users\HP\Desktop\Projeler\Güz dönemi\Nesne tabalı programlama C#\Okul.App.hafta9\Okul.App.hafta9\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\HP\Desktop\Projeler\Güz dönemi\Nesne tabalı programlama C#\Okul.App.hafta9\Okul.App.hafta9\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Desktop\Projeler\Güz dönemi\Nesne tabalı programlama C#\Okul.App.hafta9\Okul.App.hafta9\obj\Debug\Okul.App.hafta9.OgrKayitlar.resources
+C:\Users\HP\Desktop\Projeler\Güz dönemi\Nesne tabalı programlama C#\Okul.App.hafta9\Okul.App.hafta9\obj\Debug\Okul.App.hafta9.FrmBul.resources

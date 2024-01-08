@@ -36,6 +36,7 @@
 			this.lblAd = new System.Windows.Forms.Label();
 			this.lblTc = new System.Windows.Forms.Label();
 			this.btnKaydet = new System.Windows.Forms.Button();
+			this.btnKayit = new System.Windows.Forms.Button();
 			this.groupBox1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -104,7 +105,7 @@
 			// 
 			// btnKaydet
 			// 
-			this.btnKaydet.Location = new System.Drawing.Point(296, 330);
+			this.btnKaydet.Location = new System.Drawing.Point(296, 307);
 			this.btnKaydet.Name = "btnKaydet";
 			this.btnKaydet.Size = new System.Drawing.Size(191, 51);
 			this.btnKaydet.TabIndex = 1;
@@ -112,11 +113,22 @@
 			this.btnKaydet.UseVisualStyleBackColor = true;
 			this.btnKaydet.Click += new System.EventHandler(this.btnKaydet_Click);
 			// 
+			// btnKayit
+			// 
+			this.btnKayit.Location = new System.Drawing.Point(306, 374);
+			this.btnKayit.Name = "btnKayit";
+			this.btnKayit.Size = new System.Drawing.Size(164, 47);
+			this.btnKayit.TabIndex = 2;
+			this.btnKayit.Text = "Kayıtları Göster";
+			this.btnKayit.UseVisualStyleBackColor = true;
+			this.btnKayit.Click += new System.EventHandler(this.btnKayit_Click);
+			// 
 			// FrmOgretmenKayit
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(800, 450);
+			this.Controls.Add(this.btnKayit);
 			this.Controls.Add(this.btnKaydet);
 			this.Controls.Add(this.groupBox1);
 			this.Name = "FrmOgretmenKayit";
@@ -137,5 +149,6 @@
 		private System.Windows.Forms.Label lblAd;
 		private System.Windows.Forms.Label lblTc;
 		private System.Windows.Forms.Button btnKaydet;
+		private System.Windows.Forms.Button btnKayit;
 	}
 }

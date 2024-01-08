@@ -20,3 +20,9 @@ namespace Okul.App.hafta9
 		}
 	}
 }
+//Öğrenci bulunma durumuna göre Sil ve Güncelle Butonları Aktifliği YAPILDI
+//Textbox'ların text'lerinin temizlenmesi YAPILDI
+//Öğrenci bulunduğunda bul formunun kapanması 
+//Try-Catch'ler Katmanlar arası exception yönetimi
+//Dispose Pattern - IDisposeble Interface
+//Singleton Design Pattern

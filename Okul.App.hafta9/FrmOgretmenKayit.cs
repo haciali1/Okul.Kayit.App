@@ -47,5 +47,12 @@ namespace Okul.App.hafta9
 				MessageBox.Show("Bilinmeyen hata " + ex.Message);
 			}
 		}
+
+		private void btnKayit_Click(object sender, EventArgs e)
+		{
+			OgrKayitlar frm2 = new OgrKayitlar();
+			frm2.Show();
+			this.Hide();
+		}
 	}
 }
